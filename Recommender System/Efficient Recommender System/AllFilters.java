@@ -1,3 +1,12 @@
+
+/**
+ * Write a description of class AllFilters here.
+ * 
+ * @author Vishal Jotwani 
+ * @version 27/08/2020
+ */
+
+
 import java.util.ArrayList;
 
 public class AllFilters implements Filter {
